@@ -1,5 +1,5 @@
  
-### What Does it Mean to Make-Up the Mind (οὕτω διανοεῖσθε)?
+### What Does It Mean to Make-Up the Mind (οὕτω διανοεῖσθε)?
 
 Justin Murphy     
 Assistant Professor Politics      
