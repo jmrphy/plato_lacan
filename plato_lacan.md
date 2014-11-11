@@ -613,8 +613,6 @@ capture, he provides a politically palatable form for the irreducibility of dial
 the idealism that sustains it. By inserting himself into this ideology as an interlocutor, he is
 able to execute the logical parlor trick called Justice in order to subvert the reality of
 Thrasymachean advantage.
-
-Notes
  
 [^1]: Plato, *Republic*, trans. G. M. A. Grube, ed. C. D. C. Reeve (Indianapolis: Hackett, 1992) I,
 [^327, b. All references to *Republic* are from this edition, unless otherwise noted.
