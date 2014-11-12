@@ -2,7 +2,7 @@
 ### What Does It Mean to Make-Up the Mind (οὕτω διανοεῖσθε)?
 
 Justin Murphy     
-Assistant Professor Politics      
+Assistant Professor of Politics      
 University of Southampton    
 [j.murphy@soton.ac.uk](mailto:j.murphy@soton.ac.uk)     
 [http://jmrphy.net](http://jmrphy.net)    
