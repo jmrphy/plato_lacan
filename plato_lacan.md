@@ -11,7 +11,7 @@ University of Southampton
 **Abstract:** In the very beginning of Plato’s *Republic*, Polemarchus and a few associates emerge
 to interdict the passage of Socrates and Glaucon as the two are returning home to Athens. When
 Socrates asks if he might persuade his interlocutors to let the two Athenians pass, Polemarchus says
-that his group simply will not listen, and that Socrates and Glaucon “better make up their mind to
+that his group simply will not listen, and that Socrates and Glaucon “better make up [their] mind to
 that" (οὕτω διανοεῖσθε). The present paper seizes upon this highly enigmatic phrase as a point of
 departure for interrogating the relationship between free thought and political power at the
 founding of Western political theory. The paper draws on the history of ancient Greek religious
