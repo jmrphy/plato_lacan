@@ -19,7 +19,9 @@ practices and a particular psychoanalytic topology put forward by Jacques Lacan,
 demonstrate that this enigmatic and overtly politicized opening of the *Republic* memorializes a
 dialectical relationship, always present but repressed, between political forces and the “pure
 thought” of philosophical theory. Along these lines it is shown how Plato situates even the very
-philosophical high point of the *Republic*, the theory of forms, in a political topology.
+philosophical high point of the *Republic*, the theory of forms, in a political topology.    
+
+8,273 words and 3 figures.
 
 <!--BREAK-->
  
@@ -614,8 +616,7 @@ the idealism that sustains it. By inserting himself into this ideology as an int
 able to execute the logical parlor trick called Justice in order to subvert the reality of
 Thrasymachean advantage.
  
-[^1]: Plato, *Republic*, trans. G. M. A. Grube, ed. C. D. C. Reeve (Indianapolis: Hackett, 1992) I,
-[^327, b. All references to *Republic* are from this edition, unless otherwise noted.
+[^1]: Plato, *Republic*, trans. G. M. A. Grube, ed. C. D. C. Reeve (Indianapolis: Hackett, 1992) I, 327, b. All references to *Republic* are from this edition, unless otherwise noted.
 
 [^2]: Plato, *Republic*, I, 327, c.
 
@@ -623,8 +624,7 @@ Thrasymachean advantage.
 Polemarchus say, “Well then, think it over, bearing in mind we won’t listen.” Plato, *Republic*,
 trans. Allan Bloom (NY: Basic, 1991).
 
-[^4]: Jacques Lacan, The Four Fundamental Concepts of Psychoanalysis, trans. Alan Sheridan, ed.
-[^Jacques-Alain Miller (New York: Norton, 1977) 154.
+[^4]: Jacques Lacan, *The Four Fundamental Concepts of Psychoanalysis*, trans. Alan Sheridan, ed. Jacques-Alain Miller (New York: Norton, 1977) 154.
 
 [^5]: It will become relevant to recall that this whole problematic is seen just as well in the
 Freudian problematic of the primal horde, insofar as our psychic anxieties are traceable to an
@@ -632,10 +632,9 @@ original, semi-empirical band of brothers who kill their father to share the exp
 promiscuous sexual reign. The brothers must then endure, through to the present day, the ambivalent
 tension between happiness for their freedom and remorse for their crime.
 
-[^6]: See the Perseus Digital Library at http://www.perseus.tufts.edu/hopper/morph?l=dianoei%3Dsqe&l
-^a=greek&prior=ou(/tw&d=Perseus:text:1999.01.0167:book=1:section=327c&i=1.
+[^6]: See the [Perseus Digital Library for Book 1, Section 327](http://tinyurl.com/kavoqay).
 
-[^7]: Andrea Wilson Nightingale, Spectacles of Truth in Classical Greek Philosophy (Cambridge:
+[^7]: Andrea Wilson Nightingale, *Spectacles of Truth in Classical Greek Philosophy* (Cambridge:
 Cambridge University Press, 2004) 72.
 
 [^8]: Nightingale, 74.
@@ -648,9 +647,7 @@ Cambridge University Press, 2004) 72.
 
 [^12]: Nightingale, 46.
 
-[^13]: John Elsner, "Between Mimesis and Divine Power: Visuality in the Greco- Roman World,"
-[^Visuality Before and Beyond the Renaissance, ed. R. Nelson (Cambridge: Cambridge University Press)
-[^61, as cited in Nightingale, 46.
+[^13]: John Elsner, "Between Mimesis and Divine Power: Visuality in the Greco- Roman World," *Visuality Before and Beyond the Renaissance*, ed. R. Nelson (Cambridge: Cambridge University Press), 61, as cited in Nightingale, 46.
 
 [^14]: Elsner, 62.
 
@@ -664,9 +661,7 @@ Cambridge University Press, 2004) 72.
 
 [^19]: Plato, 285, fn24.
 
-[^20]: Such as the one provided in the editorial notes: “Socrates would then be saying something
-[^like: It isn’t a tale that shows strength of understanding that I’m going to tell but one that
-[^shows the strength of the Muse of storytelling.”
+[^20]: Such as the one provided in the editorial notes: “Socrates would then be saying something like: It isn’t a tale that shows strength of understanding that I’m going to tell but one that shows the strength of the Muse of storytelling.”
 
 [^21]: Nightingale, 77.
 
