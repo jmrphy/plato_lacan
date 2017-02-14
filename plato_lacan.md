@@ -1,45 +1,48 @@
  
-### What Does It Mean to Make-Up the Mind (οὕτω διανοεῖσθε)?
+## What Does It Mean to Make-Up the Mind (οὕτω διανοεῖσθε)?
 
-<!-- Justin Murphy      Assistant Professor of Politics       University of
-Southampton [j.murphy@soton.ac.uk](mailto:j.murphy@soton.ac.uk)
-[http://jmrphy.net](http://jmrphy.net) [@jmrphy](http://twitter.com/jmrphy) -->
+Under what conditions can thought and speech participate meaningfully in systemic political transformations? In my view, two bodies of late twentieth-century thought stand out as the most advanced efforts to answer this question. Gilles Deleuze and Michel Foucault, in their own registers and of course with very different accents, both suggest substantial but complicated roles thinking and speaking might have to play in any viable future project of emancipatory politics. Given the idealistic associations and connotations of such terms as thinking and speaking, it is no surprise that both figures have been charged with similar crimes: dandyism, individualism, or escapism, all of which are typically implied to render their bodies of work unhelpful for projects of organized, collective political change.
+
+Indeed, in the present historical moment, the so-called age of information, we are now in a better position than ever to understand the ways in which mere thought and speech are unable to generate politically significant emancipatory dynamics. In modern global capitalism, it has never seemed more clear that what is called freedom of speech and the public exchange of ideas is perfectly consistent with the perpetuity and even intensification of oppressive institutional dynamics. Yet, I wish to suggest that in this rightful disillusionment with mere thought and speech lies an opportunity for increased clarity with respect to the unique conditions under which a more rigorously understood form of radical truth-telling may not only be politically effective but perhaps the sine qua non of emancipatory political activity today, in the context of what Deleuze called “control societies.”
+
+If it is true that Foucault and Deleuze are two of the most advanced thinkers of this question—and yet even they remain uncleared of charges relating to political triviality—then it would seem that the surest way to advance the question would be to begin at the outermost edges of where they left off. While Deleuze and Foucault will help to motivate the problem, I will turn elsewhere for the materials that I believe can provide the most compelling solution to this puzzle at the edge of their works.
+
+As Foucault’s references suggest, the peculiar and conditional, but radical political power of thought and speech is a motivating concern in some of the founding discourses of Western political thought. The largest portion of this study is therefore dedicated to Plato’s Republic, because it is in that most strange text that I believe this question receives one of its most impressive treatments, but one which remains only partially understood. Additionally, as Foucault and Deleuze both constructed their works to some degree against the foil of psychonalysis, it will not be too surprising that psychoanalysis emerges as a natural frame for formalizing how and why thought and speech are typically pacified into consistency with political orders.
+
+In the very beginning of the Republic, Polemarchus says to Socrates and Glaucon that he simply will not listen and that they “better make up [their] mind to that" (οὕτω διανοεῖσθε). What could it mean to “make up one’s mind” to the fact that one will not be heard? Drawing on the history of ancient Greek religious practices and Lacan's topological, diagrammatic heuristics for his theory of the drive, I demonstrate how the Republic offers a remarkable solution to the problem of how to think and speak in contexts where political factors may doom one not to be heard. In particular, I extend Lacan’s diagrammatic heuristics to show that what is called knowledge is a product of a circular process in which free thought immanently emerges from, and returns to, brute political forces. As we will see, this perverse circularity is also explicit in the work of Foucault and Deleuze. True knowledge then lies in comprehension of this form that obtains between free thought and the political factors that at once require but also taint or even prohibit free thought.
+
+In the end, the first contribution of this study will be to show how and why mere thought and speech, even true speech, is typically doomed to political impotence. The key problem, in short, is that where power is unequally distributed, the dominant can always choose not to listen. While this may seem obvious, conventional notions about the roles of free thinking and free speaking in creating social transformation become mystified to a degree that remains underestimated. What is called free, critical, or oppositional thought and speech typically coincides with the status quo to a greater degree and on a deeper level than is widely believed.
+
+The second and main contribution will be a possible or at least partial solution to the puzzle. The line of thought elaborated here suggests that the solution involves tactically variable deployments of *parrhesia*—truth-telling or frank speech (*franc-parler*)—which, if undertaken correctly, have the unique properties of being indecipherable to the dominant and irresistably, non-communicatively generative of autonomous collective power. It turns out that the dominant do dig their own graves, not by creating an impoverished industrial proletariat, but because their cultivated aural numbness renders them helpless when their mechanisms of control are discovered by the the subjects who learn their contributions to dialogue are falling on deaf ears. Instead, subjects become revolutionary when they learn how to “make up their mind” about this.
+
+The tactical manuevers Foucault discusses under the heading of “courage” are the same ones that “make up the mind,” in the sense that courage involves an openness to real objective forces which are the only forces that can attune diverse mental processes of dominated individualized bodies into shared movements toward liberation (the mind here being shaped or “made” by objective forces), but also in the sense of creatively altering the political reality through performances that issue from those mental processes. These types of operations are typically invoked as examples of faux-radical dandyism or individualistic, bourgeois “lifestyle politics” but the analysis shows that, on the contrary, these are operations of what Deleuze calls “nomadic science,” or the only empirically serious way that currently atomized bodies can even begin to enter into collective processes capable of transforming institutions that operate at population level.
+
+The confusion that underwrites accusations of political triviality is that such operations *should* genuinely appear ridiculous and trivial in the first analysis, when seen through pacified eyes in the creative stirrings of others with whom one shares no affective bonds. My analysis will help us to see that such accusations are better understood as examples of precisely the mechanism whereby political orders neutralize oppositional thought and speech. Such accusations are the prevailing body politic defending itself through the bodies of those who, for whatever reason, simply cannot hear the non-communicative refrains of those bodies immersed in dynamics of liberation. If a political aesthetics of existence *appears* to be so many politically trivial flights of the ego, the theoretically and politically appropriate response is to *let it appear as such.* Those who allow themselves to be swept away by real micro-political dynamics of liberation will know their empirical effectiveness, and whoever remains so doggedly invested in such conservative operations as signifying, interpreting, or objecting, then it is no surprise, and no problem at all, that such people will not see when others are becoming revolutionary right in front of their eyes.
+
+## “But could you persuade us, if we won’t listen?”
+
+In one of his later lectures, published as “The Courage of Truth,” Foucault is interested in the conditions under which, in ancient Greek culture, an act of truth-telling would or would not come to be recognized as such by a speaker or listener. Foucault is clear that he is not so interested in the the discursive or logical structures that make something recognizable as true, but the interpersonal and performative conditions that allow someone to function as a subject telling the truth. He notes a few key conditions:
+
+“In short, parrhe– sia, the act of truth, requires: first, the manifestation of a fundamental bond between the truth spoken and the thought of the person who spoke it; [second], a challenge to the bond between the two interlocutors (the person who speaks the truth and the person to whom this truth is addressed). Hence this new feature of parrhe– sia: it involves some form of courage, the minimal form of which consists in the parrhesiast taking the risk of breaking and ending the relationship to the other person which was precisely what made his discourse possible. In a way, the parrhesiast always risks undermining that relationship which is the condition of possibility of his discourse.“
  
-**Abstract**: In the beginning of Plato’s *Republic*, Polemarchus says to
-Socrates and Glaucon that he simply will not listen and that they “better make
-up [their] mind to that" (οὕτω διανοεῖσθε). This article seizes upon this highly
-enigmatic phrase to interrogate the relationship between free thought and
-political power at the founding of Western political theory. Drawing on the
-history of ancient Greek religious practices and Lacan's theory of the drive,
-the article demonstrates how the *Republic* can be understood psychoanalytically
-as a topological solution to the problems posed by the dialectical relationship
-between political force and philosophical theory.
+While the listener can be anyone, for an act of truth-telling to take hold, the listener “must accept the game of parrhesia; they must play it themselves and recognize that they have to listen to the person who takes the risk of telling them the truth.“ (12) 
 
-8,273 words and 3 figures.
+We can already see here the theoretical vulnerability of any politics based on an aesthetics of existence: any politics contingent on even the attention of others, let alone a cooperative attention, could be accused of wistfully begging precisely what is so difficult about politics, namely, how to proceed in the face of willfully non-attentive and/or non-cooperative others? It is therefore reasonable to wonder skeptically how Foucault’s subsequent elucidation of the workings of parrhesia could ever generate any useful, let alone radical or revolutionary, insights into how political situations defined by inequality and domination might ever be fundamentally altered in the direction of optimal collective flourishing. Quite the contrary, if the key conditions are not met, parrhesia can turn out very badly. Relevant to the analysis that follows this section, Foucault notes about the *Republic,* that Plato explicitly diagnoses “the bad democratic city, which is all motley, fragmented, and dispersed between different interests, passions, and individuals who do not agree with each other. This bad democratic city practices parrhesia: anyone can say anything.” (10)
 
-<!--BREAK-->
- 
-#### I. Introduction
+Deleuze and Guattari are explicitly concerned with this same dilemma. In A Thousand Plateaus, they will repeatedly identify a certain pattern of political conservatism, which they will often associate with psychoanalysis: “Silence people, prevent them from speaking, and above all, when they do speak, pretend they haven't said a thing: the famous psychoanalytic neutrality.“ (TP, 8) Many of the conceptual personae in that book—the white wall of the signifier, the black hole of subjectivity, and the machine of faciality—are all variations on the theme of social technologies that channel, deflect, distort, or otherwise pacify potential becomings into the circuits that generate the life and consistency of the dominant social system. For Deleuze and Guattari, contemporary liberal democracy and the “paradox of the legislator-subject” is the apotheosis of this pattern: “the more you obey the statements of the dominant reality, the more in command you are as subject of enunciation in mental reality, for in the end you are only obeying yourself! You are the one in command, in your capacity as a rational being. A new form of slavery is invented, namely, being slave to oneself.” (TP 130) Just as we find in Foucault, at stake here is the problem that speech may be perfectly free and not only fail to have any political potency but even become the mystified lifeblood of the dominant social system one sets out to question, challenge, or transform.
 
-In the very beginning of Plato’s *Republic*, Glaucon and Socrates are heading
-home to Athens. Polemarchus sees them from a distance and sends a slave to stop
-them.[^1] When Polemarchus catches up, he has Adeimantus, Niceratus, and others
-by his side. Very abruptly, Polemarchus points out that he has more men in his
-group, and that Glaucon and Socrates must therefore “prove stronger,” or will be
-forced to stay. Socrates asks if there is not a third possibility, namely, that
-he and Glaucon persuade the others to let them pass. Polemarchus poses the
-counter-question: “But could you persuade us, if we won’t listen?” to which
-Glaucon replies, “Certainly not.” Polemarchus closes this discussion with an
-extremely enigmatic statement: “Well, we won’t listen; you’d better make up your
-mind to that” (οὕτω διανοεῖσθε).[^2] Immediately after, Adeimantus describes the
-enjoyments they can expect that evening, “persuading” them to stay after they
-have already been told they have no choice. Oὕτω διανοεῖσθε is a peculiar
-phrase. Οὕτω is an adverb, which means “in this way,” and thus signifies a
-limitation of some kind, a restriction with an implicitly commanding or
-imperative dimension. However, διανοεῖσθε is constructed in the optative mood
-and means “to be minded,” thus implying a free choice in the use of the mind. It
-is a strange syntactical pairing of the proscriptive/prescriptive with the
-optative—it seems to suggest a sort of forced freedom.
+Plato's Republic begins with a curious staging of this problem. In the very beginning of Plato’s *Republic*, Glaucon and Socrates are heading home to Athens. Polemarchus sees them from a distance and sends a slave to stop them.[^1] When Polemarchus catches up, he has Adeimantus, Niceratus, and others by
+his side. Very abruptly, Polemarchus points out that he has more men in his group, and that Glaucon and Socrates must
+therefore “prove stronger,” or will be forced to stay. Socrates asks if there is not a third possibility, namely, that
+he and Glaucon persuade the others to let them pass. Polemarchus poses the counter-question: “But could you persuade us,
+if we won’t listen?” to which Glaucon replies, “Certainly not.” Polemarchus closes this discussion with an extremely
+enigmatic statement: “Well, we won’t listen; you’d better make up your mind to that” (οὕτω διανοεῖσθε).[^2] Immediately
+after, Adeimantus describes the enjoyments they can expect that evening, “persuading” them to stay after they have
+already been told they have no choice. Oὕτω διανοεῖσθε is a peculiar phrase. Οὕτω is an adverb, which means “in this
+way,” and thus signifies a limitation of some kind, a restriction with an implicitly commanding or imperative dimension.
+However, διανοεῖσθε is constructed in the optative mood and means “to be minded,” thus implying a free choice in the use
+of the mind. It is a strange syntactical pairing of the proscriptive/prescriptive with the optative—it seems to suggest
+a sort of forced freedom.
 
 Furthermore, as if to redouble this tension semantically, διανοεῖσθε contains
 νόος, mind—the mind of philosophy and understanding, of logical thought—but
@@ -75,7 +78,7 @@ inorganicism and early placement of this seemingly unnecessary and merely
 rhetorical prelude are both called for by the very argument that this scenario
 dramatizes.
 
-#### II. Desire and Theory in *The Four Fundamental Concepts of Psychoanalysis*
+## The Circularity Problem
 
 Jacques Lacan writes the following:
 
@@ -90,8 +93,7 @@ which is a condition both, absolute and unapprehensible, an element necessarily
 lacking, unsatisfied, impossible, misconstrued, an element that is called
 desire.[^4]
  
-Instead of trying to unpack this systematically—for, Lacan is not our focus, and
-in any event his texts are unreadable in his own technical sense—let us rather
+Instead of trying to unpack this systematically—Lacan is not our focus--let us rather
 take it as an epigram, a provocation, a bank of vocabulary. A demand is an
 injunction directed to another, and as a receipt or claim on the desire of the
 other, it seems quite clear from the beginning that the psychic economy of an
@@ -196,7 +198,7 @@ We can now more confidently build on this analogy for developing the
 implications of the homology between the politics of theory and the theory of
 politics.
 
-#### III. The Structure of Theory in the *Republic*
+## The Structure of Theoria in the *Republic*
 
 Andrea Wilson Nightingale has shown very well that Plato draws heavily on the
 civic and religious traditions of theoria in order to constitute what is, at the
@@ -227,8 +229,6 @@ confrontation with the object of his theoric desire, it can be shown that the
 theoros always comes up short or just misses his object. Finally and perhaps
 most interestingly, we will have to note what is retained as the signifier of
 this lost object.
-
-###### Religious and Diplomatic Theoria
 
 In the case of religious theoria, the theoros is most often on an oracular
 mission desiring, and himself a function of others’ desires for, divine
@@ -277,8 +277,6 @@ Delphic sculptures to the ones with which they are familiar from home, can we
 not see a note of mockery at the expectation, proffered by the likes of
 Theognis, of an absolute fidelity in the return account?
 
-###### Personal Theoria
-
 In the case of theoria as a search for wisdom, the theoros undertakes the work
 of personal cultivation to obtain a personal kind of knowledge or wisdom. The
 theoros would journey abroad simply for the sake of learning. Through Herodotus,
@@ -303,8 +301,6 @@ critique of others’ claims and arguments. The benefit or gain of Socratic
 dialectic was only to be found in Socrates’ inner peace, and it is well known
 that his minor forays into practical conversion or positive intellectual
 production, his “corrupting of the youth,” ended in dramatic political failure.
-
-###### The Theoria of Dying
 
 The Myth of Er, which concludes the *Republic*, follows the same structure. Er
 participates in military battle as the practical access point to knowledge of
@@ -371,8 +367,6 @@ why it is necessary to highlight the structural integrity of Er’s theoric
 trajectory, ending in the strong storytelling of his tale, rather than stopping
 short at a reading of the pun which applies to Plato’s mythmaking only.
 
-###### Philosophical Theoria
-
 In Book V-VII of *Republic*, Plato constructs, for the first time at length, the
 new, specific activity of “philosophy,” as something distinct from general
 intellectual cultivation (philosophein).[^21] Nightingale shows in great detail
@@ -391,7 +385,7 @@ to make a politically inept production of their acquired wisdom. As we will see,
 this also marks the difference between Socrates and Plato and can be read as a
 foundational concern of the *Republic* itself.
 
-###### Generalizing the Structure of Theoria
+## Formalizing the Structure of Theoria
 
 If we wished to represent the structure of theoria graphically, as Plato gave us
 to understand it, we would have to show thought "ascending" from earthly
@@ -433,8 +427,6 @@ whether implicitly or explicitly, Plato gives to the invariably elusive object
 at the height of the theoric flight. After discussing a similar structure which
 pertains to the psychic economy, we will gain additional resources to say more
 about this theoric economy.
-
-#### IV. The Structure of Drive
 
 In the psychoanalytic understanding, sexual drives must be rigorously
 distinguished from the animal instinct, because it is only the latter which take
@@ -587,8 +579,6 @@ violent laceration of the Real (the horizon of present knowledge as obstacle to
 some “deeper” meaning located at some other point beyond the horizon) in the
 name of desire.
 
-#### V. Conclusion
-
 If we return to our visualization of theoric structure as it appears in Plato’s
 *Republic*, and we stand by the premise of the homology between the well-ordered
 soul and the well-ordered polis, it would appear that missing from the graphic
@@ -725,6 +715,30 @@ provides a politically palatable form for the irreducibility of dialectic by
 positing the idealism that sustains it. By inserting himself into this ideology
 as an interlocutor, he is able to execute the logical parlor trick called
 Justice in order to subvert the reality of Thrasymachean advantage.
+
+#### V. Conclusion
+
+If we look to Plato's Republic for political guidance in the content of the text, it might only be because we suffer from the disease of interpretosis. As Deleuze reminds us, the idea that a text should be interpreted would appear to be one of the many circular tracks along which the contemporary legislator-subject of liberal democracies cannot help but constantly reproduce their own self-enslavement. If we look to Plato's Republic as a creative experiment in thought, self-conscious of the political dilemma it brings to our attention in the very first pages, it becomes a remarkable lesson in how thought takes flight, not to some other world, but toward an other life in this world. One might be inclined to assume that the political communication strategy favored by Plato would be Socratic irony, but all the strange creative flights in the Republic are evidence of something very different. The entire book can be read as a performative solution to the limits of Socratic irony, what to do when Socratic irony cannot even begin because the others will not engage: "...lay everything out on a plane
+of exteriority of this kind, on a single page, the same sheet: lived events, historical determinations, concepts, individuals, groups, social formations." Is the method of Deleuze and Guattari not the method of the Republic, if one can learn to be affected by it in this way?
+
+Understanding Plato's work to be a political-communicational innovation at the limits of Socratic irony provides a convenient segue back to our original motivation. In The Courage of Truth, Foucault analyzes at length several cultural variations on the Socratic "care of the self." Especially useful for concluding our discussion is Foucault's treatment of Cynicism. Briefly, ancient Cyncism, most famously embodied by Diogenes of Sinope, consisted in applying principles of philosophical wisdom to one's own life to a scandalous degree. In this practice, the hypocracy of normal life is exposed and the Cynic gains eudomonia or a happiness rooted in the living of true life, which is an other life relative to what is generally considered life. One of the key slogans of ancient Cynicism was that one must "alter the value of the currency." By living truly, the Cynic demonstrated that the coin in circulation (status quo institutions) are overvalued, and that the true coin, repressed by status quo institutions, was undervalued. What is remarkable about Cynicism for our purposes is that it was perhaps the first recorded political-philosophical "movement" that appears to be a solution to the dilemma outlined at length in this article. It is a kind of empirical case study of the real, empirical micro-politics of an aesthetics of existence understood correctly. There is a particular feature of ancient Cynicism that is crucial for our discussion. The Cynic must learn how his true coin is objectively superior to the false coin that obtains in the conventional status quo, through an experimental process in which the Cynic conducts "tests," (presumably the seemingly ridiculous and trivial public stunts of Diogenes), which separates the true from the false, the really valuable from the not valuable, and generate his own eudamonia all in the same immanent process. Although Foucault does not fully draw this out in his understandably cautious lecture, we are now in a position to see Cynicism as a radical political program for the collective overthrow of false and oppressive social institutions, in a fashion that is theoretically and empirically sophisticated with respect to the circularity problem detailed at length above. Foucault citing Julian:
+
+" the fundamental precept is “revalue your currency”; but this revaluation can only take place through and by means of “know yourself,” which replaces the counterfeit currency of one’s own and others’ opinion of oneself, with the true currency of self- knowledge. One can handle one’s own existence, take care of oneself as something real, and have the true currency of one’s true existence in one’s hands, on condition that one knows oneself. And Julian comments that when Diogenes obeyed the Pythian Apollo, when he began to get to know himself, the coin he was took on its true value. To get to know himself, Diogenes had to be able to recognize himself, and be recognized by others, as superior to Alexander himself. This refers to the famous confrontation between Diogenes and Alexander. Alexander says: If I had not been Alexander, I would have liked to be Diogenes.2"
+
+Cynicism demonstrably (i.e., with empirical evidence) generates autonomous, intrinsically anti-institutional political power, immanent in a process that is nothing other than getting to know oneself truly. This is not an individualistic process because it requires honest and objective interactions and comparisons with others. A final crucial attraction of Cynicism as revolutionary politics is that no center has to be enforced; there is an organic principle of autonomous attunement or convergence on collective liberation, insofar as nobody who accesses the eudamonia of this scandalous life has to agree on anything or subordinate themselves to anything other than whoever they find themselves to be in the process of experimental tests against objective forces.
+
+It is easy to see how Deleuze's politics will fit into this tradition. Conveniently, not long after his discussion of Diogenes, Foucault indicates the path through Spinoza. Foucault suggests that if the radical Cynical practice of philosophy appears to subside over time, it is because it becomes "confiscated" into religion and "invalidated" by the dominance of scientific standards for truth. But, Foucault suggests, it reappears with vengeance in Spinoza, whose "philosophical practice... implied a true life of a completely other type than that of everyday life." It is well known that Deleuze is fundamentally Spinozan in key respects, and it seems to me that Deleuze is fundamentally interested in identifying the concrete mechanisms within which this true life can learn to immanently produce itself, endogenous to the realization that many will not listen. The more one comes to see the deeply circular nature of thought, speech, and status quo political institutions--essentially analogous to the cyclical dynamics of de- and re-terrritorialization--the question becomes how to demonstrate these traps to others without falling into them, without lapsing back onto that circular track that always seems to bring us back to the center. The way to do this is essentially the Cynical way, through tests or what Deleuze and Guattari call experiments, in a process they call "nomad" or "minor science."
+
+Whereas royal or conventional science seeks the stable and constant laws governing the movements of linear and solid things, nomadic science is a vague science in which the affects of the scientist are no longer banished, as in royal science, but rather become the problem guiding the research. It would appear to involve a theoretical and empirical training of the intuitions that pertain to becomings, where "flux is reality itself," rather than a "secondary characteristic," excluded "in the name of royal science." Nomad science operates in a smooth and open space, into which the scientist is distributed by affective turbulence toward a holding of space instead of being held by space like the royal scientist. If philosophy is the creation of concepts, nomad science is the political science of life itself, the creation of technologies, through an intuitive experimental method, that produce autonomous collective becomings: "in other words, the task of occupying an open space with a vortical movement that can rise up at any point."
+
+How does nomad science arrive at working technologies for autonomous collective becomings? Just as a philosophy must create its own plane of immanence, nomad science must create its own plane, and *draw its own circle.* One can build a home, hum a tune, or walk in a circle as in a children's dance, all are possible ways to begin the process. Then "one opens the circle a crack, opens it all the way, lets some one in, calls someone, or else goes out oneself, launches forth."
+But how, exactly? Perhaps Deleuze and Guattari could be more clear, but I want to say *however works* for you and the other(s), which is essentially an intuitive, affective version of the scientific method. Opening and proceeding through this circle is not a kind of glorified navel-gazing that semi-mystically leads to some supernatural sphere, "it is in order to join with the forces of the future, cosmic forces. One launches forth, hazards an improvisation. But to improvise is to join with the World, or meld with it. One ventures from home on the thread of a tune." There is no reason not to read this literally; by drawing a circle on a new, smooth plane, and improvising a single tune, one need only wait and see what is returned by an other to learn what to do next. If this is done in an iterative and sensitive fashion, autonomous milieus form along sustained rhythms. Indeed, this basic process is arguably the only way to generate autonomous collective power dynamics without subordinating them to some previously established center that would invariably trace back to the status quo, as with all too many previous, revolutionary projects. The refrain increases "the speed of the exchanges and reactions in that which surrounds it, but also to assure indirect interactions between elements devoid of so-called natural affinity, and thereby to form organized masses.”
+
+Recalling our reading of Plato and Foucault, this tune or refrain "hinges" on a “state of force on the part of the listener.” (TP 349) The refrain is not heard by someone interpreting the sound, as if from a distance; it is felt, affectively. "Nomads entertain tactile relations among themselves." It operates by non-communicative functions (“the eye itself has a haptic, nonoptical function”) (494). This helps to explain Deleuze's insistence on "becoming imperceptible," and his many favorable comments on silence. Intellectual, artistic, or political projects are only worthwhile insofar as they work by "blazing life lines;" ideally they may become weapons to some others, but in their actual functioning they *should not be heard* by those not in a state to receive them. And when given opportunities to speak into the circular circuits of signification emanating from the center, typically the optimal response is an "an eminently significant silence." The life of a Diogenes is only one possible, idiosyncratic outcome of the essentially social-scientific intuition that drawing one's own circle, opening it a crack, and improvising with whatever forces are lying around, immanently and fundamentally tends to the destabilization of macro-social coordination/control mechanisms (i.e. the price or value mechanism). The refrain, as a model for the elementary unit of revolutionary becomings, is at once child's play and extremely risky as in Foucault's descriptions of parrhesia, because to anyone who cannot join up with it, an improvisation "necessarily appears in a negative form: stupidity, deformity, madness..."
+
+Deleuze disliked the language of truth, perhaps because he believed it always leads one back to useless discursive squabbles he knew to be red herrings, but Foucault remained interested in the concept. One way to square this difference is to see how a real fidelity to what is the case will always exceed veridiction because of political constraints inherent to communication. Correctly understood along the lines of Cynical parrhesia, living truly, doing science truly, doing philosophy truly, and true revolutionary politics are essentially one immanent process, the process of experimentally becoming who one is, which one always discovers to be a multiplicity, and always beyond veridiction. True life is a process of escaping the circular tracks in which this life, false life, constantly reproduces itself through bodies that are only beginning to learn what they can do, what they truly are. Although we speak of escape, it is not "escapism" because these modes of escape are demonstrable processes based on fidelity to empirical reality. Indeed, at stake here is the micro-political, empirical knowledge of real or "active escapes," which is inherently collective, and the mechanisms of which can be learned and shared with anyone who wants them. Fortunately, enemies of liberation will never know how to hear the little refrains which become milieus which eventually become revolutionary movements. And to the degree they ever learn to hear them, they will no longer be enemies of liberation.
+
+
  
 [^1]: Plato, *Republic*, trans. G. M. A. Grube, ed. C. D. C. Reeve
 (Indianapolis: Hackett, 1992) I, 327, b. All references to *Republic* are from
